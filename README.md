@@ -5,6 +5,7 @@ This repository provides resources and tools related to the **Arabic Topic Class
 ## Citation
 
 If you use this corpus in your research, please cite it as follows:
+
 @inproceedings{nakbacorpus2025,
   author    = {Osama Hamed and Nadeem Zaidkilani},
   title     = {Arabic Topic Classification Corpus of the Nakba Short Stories},
